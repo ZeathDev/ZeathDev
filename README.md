@@ -1,6 +1,6 @@
 ### Hi, I am ZeathDev 👋
 
-**Langage:** Vue, React, Java, Kotlin, JavaScript, C#, C++, Rust
+**Langage:** C/C++, Java, Kotlin, Golang, Python
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZeathDev&show_icons=true&count_private=true)   
 
